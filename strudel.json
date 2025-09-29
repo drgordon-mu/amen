@@ -1,4 +1,4 @@
 {
-"_base": "https://github.com/drgordon-mu/amen",
+"_base": "https://github.com/drgordon-mu/amen/raw/refs/heads/main/",
 "breaks": ["cw_amen01_175.wav","cw_amen02_165.wav","cw_amen03_167.wav","cw_amen04_170.wav","cw_amen06_169.wav","cw_amen07_172.wav","cw_amen08_165.wav"]
 }
